@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ImpliementKissPrinciple\ImpliementKissPrinciple\bin\Debug\net8.0\ImpliementKissPrinciple.exe
+C:\Users\HP\source\repos\ImpliementKissPrinciple\ImpliementKissPrinciple\bin\Debug\net8.0\ImpliementKissPrinciple.deps.json
+C:\Users\HP\source\repos\ImpliementKissPrinciple\ImpliementKissPrinciple\bin\Debug\net8.0\ImpliementKissPrinciple.runtimeconfig.json
+C:\Users\HP\source\repos\ImpliementKissPrinciple\ImpliementKissPrinciple\bin\Debug\net8.0\ImpliementKissPrinciple.dll
+C:\Users\HP\source\repos\ImpliementKissPrinciple\ImpliementKissPrinciple\bin\Debug\net8.0\ImpliementKissPrinciple.pdb
+C:\Users\HP\source\repos\ImpliementKissPrinciple\ImpliementKissPrinciple\obj\Debug\net8.0\ImpliementKissPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ImpliementKissPrinciple\ImpliementKissPrinciple\obj\Debug\net8.0\ImpliementKissPrinciple.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ImpliementKissPrinciple\ImpliementKissPrinciple\obj\Debug\net8.0\ImpliementKissPrinciple.AssemblyInfo.cs
+C:\Users\HP\source\repos\ImpliementKissPrinciple\ImpliementKissPrinciple\obj\Debug\net8.0\ImpliementKissPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ImpliementKissPrinciple\ImpliementKissPrinciple\obj\Debug\net8.0\ImpliementKissPrinciple.dll
+C:\Users\HP\source\repos\ImpliementKissPrinciple\ImpliementKissPrinciple\obj\Debug\net8.0\refint\ImpliementKissPrinciple.dll
+C:\Users\HP\source\repos\ImpliementKissPrinciple\ImpliementKissPrinciple\obj\Debug\net8.0\ImpliementKissPrinciple.pdb
+C:\Users\HP\source\repos\ImpliementKissPrinciple\ImpliementKissPrinciple\obj\Debug\net8.0\ImpliementKissPrinciple.genruntimeconfig.cache
+C:\Users\HP\source\repos\ImpliementKissPrinciple\ImpliementKissPrinciple\obj\Debug\net8.0\ref\ImpliementKissPrinciple.dll
